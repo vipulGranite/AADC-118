@@ -102,7 +102,7 @@
           "language_label": "language-name",
           "language_country_mapping": "",
           "countries_filter": "",
-          "custom_css": "",
+          "custom_css": ".tl-switcher-container.tl-custom-position {\n    background-color: transparent !important;\n}",
           "header_switcher_reference_element": "",
           "header_switcher_relative_position": "before",
           "mobile_menu_switcher_reference_element": "",
@@ -114,7 +114,7 @@
           "custom_position_spacing_bottom": "20",
           "custom_position_spacing_left": "20",
           "custom_switcher_font_size": "14px",
-          "custom_switcher_border_width": 1,
+          "custom_switcher_border_width": 0,
           "custom_switcher_text_color": "#5c5c5c",
           "custom_switcher_background_color": "#ffffff",
           "custom_switcher_border_color": "#000000"
